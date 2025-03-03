@@ -4,7 +4,7 @@
     "supported": true,
     "healthy_error": null,
     "location": "/home/runner/_work/catalog/catalog/premium/nextcloud/30.2.0",
-    "last_update": "2024-05-29 12:35:14",
+    "last_update": "2025-03-03 11:35:14",
     "required_features": [
         "definitions/timezone",
         "definitions/certificate",
